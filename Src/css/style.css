@@ -1,0 +1,79 @@
+.nav-item a
+{
+    color: aliceblue;
+}
+.nav-item 
+{
+    list-style: none;
+    padding: 5px;
+    margin:0;
+    display:inline-block;
+}
+.carouselExampleSlidesOnly
+{
+  margin-left: 10px;
+}
+.welcomewidget
+{
+  background-color: aqua;
+}
+
+.admission
+{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+.navbar-brand {
+  font-size: small;
+}
+*
+{
+  margin: 0;
+  padding: 0;
+}
+.nav-link a{
+  text-align: right;
+}
+.announcementleft
+{
+  display: block;
+  background-color: rgb(224, 27, 175);
+  padding: 16px 14px;
+  font-size: medium ;
+}
+.content a
+{
+  font-size: 20px;
+  font-family: Georgia (serif);
+}
+table,td,th
+{
+  text-align: left;
+  border: 1px solid;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+}
+th,td{
+  padding: 15px;
+  text-align: left;
+}
+tr:nth-child(odd) 
+{
+  background-color: #3992c9;
+}
+th
+{
+  background-color: #135075;
+}
+tr:hover
+{
+  background-color: #2678ac;
+}
+.feed{
+  width: 400px;
+}
+.cont{
+  display: flex;
+}
